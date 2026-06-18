@@ -24,7 +24,7 @@ if(mysqli_query($conn,$sql))
         $mail->SMTPAuth = true;
 
         $mail->Username = 'idamadesuarjaya31@gmail.com';
-        $mail->Password = 'mxsq uczd zdil apqc';
+        $mail->Password = '';
 
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
