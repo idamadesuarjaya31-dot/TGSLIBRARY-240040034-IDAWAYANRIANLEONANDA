@@ -1,6 +1,6 @@
 ﻿# TGSLIBRARY-240040034-IDAWAYANRIANLEONANDA
 
 ## SCREENSHOT HASIL
-[SS1](123.png)
-[SS2](database.png)
-[SS3](berhasil.png)
+![SS1](123.png)
+![SS2](database.png)
+![SS3](berhasil.png)
